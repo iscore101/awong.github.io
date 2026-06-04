@@ -7,5 +7,5 @@ image: /images/LEAP.png
 categories: research    
 authors: Anthony Wong, Randall Balestriero Lab
 paper: /pdfs/30552_LEAP_Layer_skipping_Effi.pdf
-submission link: https://openreview.net/forum?id=Izr8bgeAhe
+submission_link: https://openreview.net/forum?id=Izr8bgeAhe
 ---
