@@ -29,7 +29,7 @@ I am currently working on:
   <li>Multi-agent RL co-learning for curriculum selection models and math post-training agents with <a href="https://chanwoo-park-official.github.io/">Chanwoo Park</a>.</li>
 </ul>
 
-At Brown, I worked with <a href="https://sites.google.com/view/oanh-nguyen/home">Oanh Nguyen</a> to prove results on stochastic processes and random graphs. I previously worked with <a href="https://sites.google.com/a/brown.edu/ugur-cetintemel/">Ugur Cetintemel</a> on RL for autonomous control in data-streaming applications. I got the chance to learn about Formal Math AI Systems from <a href="https://sites.google.com/brown.edu/junehyuk">Junehyuk Jung</a>.
+At Brown, I worked with <a href="https://sites.google.com/view/oanh-nguyen/home">Oanh Nguyen</a> to prove results on stochastic processes and random graphs. I previously worked with <a href="https://sites.google.com/a/brown.edu/ugur-cetintemel/">Ugur Cetintemel</a> on RL for autonomous control in data-streaming applications. I also got the chance to learn about Formal Math AI Systems from <a href="https://sites.google.com/brown.edu/junehyuk">Junehyuk Jung</a>.
 
 I've also interned at <b>Citadel Securities</b> as a Quantitative Trading Intern.
 
